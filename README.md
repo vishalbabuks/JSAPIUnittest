@@ -9,8 +9,8 @@ steps for creating a unit test project
 
 create an folder(Javascriptapi)
 
-Inside the folder create a folder name __tests__(two underscore at front and back)
-Inside the folder __tests__ (two underscore at front and back) create an folder api
+Inside the folder create a folder name __tests__
+Inside the folder __tests__  create an folder api
 Inside the api folder the all the testscript files should be present.
 Save the unit test file with expetension filename_pec.js
 Go to Javascriptapi,install the frisby.js 
